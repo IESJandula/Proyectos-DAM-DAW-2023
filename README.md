@@ -4,12 +4,12 @@ Bienvenido al repositorio de proyectos de los ciclos formativos de Desarrollo de
 En este repositorio encontrarás una recopilación de los proyectos realizados por los estudiantes durante el curso académico. Cada proyecto representa el trabajo y el esfuerzo de los alumnos, mostrando sus habilidades y conocimientos adquiridos a lo largo del ciclo formativo.
 
 # Índice
-- [Requisitos y criterios](#requisitos-y-criterios)
+- [Requisitos y criterios](#Requisitos-y-criterios)
 - [Proyectos](#Proyectos)
 - [Calendario](#Calendario)
-- [Presentación de proyectos](#presentación-de-proyectos)
+- [Presentación de proyectos](#Presentación-de-proyectos)
 
-# Requisitos y criterios {#requisitos-y-criterios}
+# Requisitos y criterios
 # Proyectos
 # Calendario
-# Presentación de proyectos {#presentación-de-proyectos}
+# Presentación de proyectos
