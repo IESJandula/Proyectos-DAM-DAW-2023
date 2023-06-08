@@ -21,7 +21,7 @@ En este repositorio encontrarás una recopilación de los proyectos realizados p
 - Exposiciones: viernes 16 de junio
 # Presentación de proyectos
 La defensa de los proyectos se realizará el día 16 de Junio, cada alumno contará con 20 minutos para realizar la presentación de su proyecto y se dejarán 10 minutos para la formulación de preguntas por parte del tribunal.<br>
-El orden de exposición será el siguiente:<br>
+El orden de exposición será el siguiente:
 
 DAM<br>
 09:00: Aljarilla Casto, Alejandro y Hernández Salvador, Neil<br>
