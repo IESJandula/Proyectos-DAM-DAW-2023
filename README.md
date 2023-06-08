@@ -19,7 +19,7 @@ Proyecto [Reaktor](https://github.com/IESJandula/Reaktor) (Sistema de monitoriza
 - [Neil Hernández Salvador](https://github.com/neilhdezs)
 - [Alejandro Aljarilla Castro](https://github.com/Aljarilla11)
 
-Proyecto [Eco-Jandula](https://github.com/IESJandula/EcoJandula) (Telemetría del coche Eco-Jándula):
+Proyecto [Eco-Jándula](https://github.com/IESJandula/EcoJandula) (Telemetría del coche Eco-Jándula):
 - [Jesús García Puerto](https://github.com/jgarpue395)
 
 
