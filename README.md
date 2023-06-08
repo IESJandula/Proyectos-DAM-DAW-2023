@@ -29,7 +29,7 @@ Proyecto [IESJandulaMap3D](https://github.com/IESJandula/IESJandulaMap3D) (Visit
 # Calendario
 - Anteproyecto: viernes 24 de marzo
 - Revisión (checkpoint): lunes 22 de mayo
-- Entrega de proyecto: jueves 15 de junio
+- Entrega de proyecto: miércoles 14 de junio
 - Exposiciones: viernes 16 de junio
 # Presentación de proyectos
 La defensa de los proyectos se realizará el día 16 de Junio, cada alumno contará con 20 minutos para realizar la presentación de su proyecto y se dejarán 10 minutos para la formulación de preguntas por parte del tribunal.<br>
