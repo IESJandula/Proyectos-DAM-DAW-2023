@@ -15,9 +15,9 @@ En este repositorio encontrarás una recopilación de los proyectos realizados p
 - [Portada](https://docs.google.com/document/d/1PuAnJ8C2DltWCEitBccll9HKhzG2b1G2xnnnsmm3FF8/edit?usp=sharing)
 # Proyectos
 
-Proyecto [Reaktor] (https://github.com/IESJandula/Reaktor):
-- [Neil Hernández Salvador]: (https://github.com/neilhdezs)
-- [Alejandro Aljarilla Castro]: (https://github.com/Aljarilla11)
+Proyecto [Reaktor](https://github.com/IESJandula/Reaktor):
+- [Neil Hernández Salvador](https://github.com/neilhdezs)
+- [Alejandro Aljarilla Castro](https://github.com/Aljarilla11)
 
 # Calendario
 - Anteproyecto: viernes 24 de marzo
