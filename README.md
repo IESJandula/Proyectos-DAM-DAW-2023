@@ -22,6 +22,9 @@ Proyecto [Reaktor](https://github.com/IESJandula/Reaktor) (Sistema de monitoriza
 Proyecto [Eco-Jándula](https://github.com/IESJandula/EcoJandula) (Telemetría del coche Eco-Jándula):
 - [Jesús García Puerto](https://github.com/jgarpue395)
 
+Proyecto [IESJandulaMap3D](https://github.com/IESJandula/IESJandulaMap3D) (Visita virtual al instituto en formato videojuego en 3D):
+- [Ignacio Belda Lupión](https://github.com/nachoblwh)
+
 
 # Calendario
 - Anteproyecto: viernes 24 de marzo
