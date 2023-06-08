@@ -47,9 +47,9 @@ DAW<br>
 
 
 Para poder realizar la presentación del proyecto, el alumno deberá mandar en formato zip al tutor que le ha coordinado el proyecto los siguientes documentos:
-Proyecto integrado siguiendo el guión orientativo y portada facilitada por el centro.<br>
-Presentación usada para exponer el proyecto.<br>
-Programa o web realizado en el proyecto.<br>
-Subir proyecto a github y compartir enlace público con adomcab952@g.educaand.es<br>
+- Proyecto integrado siguiendo el guión orientativo y portada facilitada por el centro.
+- Presentación usada para exponer el proyecto.
+- Programa o web realizado en el proyecto.
+- Subir proyecto a github y compartir enlace público.
 ## Lugar de las exposiciones
 Las presentaciones tendrán lugar en el aula de 2ºDAM/DAW del IES Jándula
