@@ -10,6 +10,46 @@ En este repositorio encontrarás una recopilación de los proyectos realizados p
 - [Presentación de proyectos](#Presentación-de-proyectos)
 
 # Requisitos y criterios
+- [Requisitos](https://docs.google.com/document/d/1aVldU-vYqjzdnlaJivF8qRecJrzvUhO3MX2bvg395SU/edit?usp=sharing)
+- [Índice](https://docs.google.com/document/d/125VUF7avkGyrspiLrequUlhDGRTdRzebOSh9M973gt0/edit?usp=sharing)
+- [Portada](https://docs.google.com/document/d/1PuAnJ8C2DltWCEitBccll9HKhzG2b1G2xnnnsmm3FF8/edit?usp=sharing)
 # Proyectos
 # Calendario
+- Anteproyecto: viernes 24 de marzo
+- Revisión (checkpoint): lunes 22 de mayo
+- Entrega de proyecto: jueves 15 de junio
+- Exposiciones: viernes 16 de junio
 # Presentación de proyectos
+La defensa de los proyectos se realizará el día 16 de Junio, cada alumno contará con 20 minutos para realizar la presentación de su proyecto y se dejarán 10 minutos para la formulación de preguntas por parte del tribunal.<br>
+El orden de exposición será el siguiente:<br>
+
+DAM<br>
+09:00: Aljarilla Casto, Alejandro y Hernández Salvador, Neil<br>
+09:30: Armijo Ramos, David<br>
+10:00: Belda Lupión, Ignacio<br>
+10:30: García Puerto, Jesús<br>
+11:00 - 11:30: Descanso<br>
+12:00: Guerrero González, Jesús<br>
+12:30: Moreno Sánchez, Joaquín<br>
+13:00: Caño Gil, Manuel<br>
+13:30: Herruzo Montoya, Óscar<br>
+
+DAW<br>
+15:30: Benítez Serrano, Pilar<br>
+16:00: Barragán Lara, Agustín<br>
+16:30: Gómez Castillo, José Carlos<br>
+17:00: Martínez Moreno, Alberto<br>
+17:30 - 18:00: Descanso<br>
+18:30: Mora Castilla, Juan<br>
+19:00: Muñoz Merino, Luis Manuel<br>
+19:30: Sarrión Expósito, Helena<br>
+20:00: Tortosa Rodríguez, Joel<br>
+
+
+Para poder realizar la presentación del proyecto, el alumno deberá mandar en formato zip al tutor que le ha coordinado el proyecto los siguientes documentos:
+Proyecto integrado siguiendo el guión orientativo y portada facilitada por el centro.<br>
+Presentación usada para exponer el proyecto.<br>
+Programa o web realizado en el proyecto.<br>
+Subir proyecto a github y compartir enlace público con adomcab952@g.educaand.es<br>
+## Lugar de las exposiciones
+Las presentaciones tendrán lugar en el aula de 2ºDAM/DAW del IES Jándula
