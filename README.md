@@ -25,6 +25,9 @@ Proyecto [Eco-Jándula](https://github.com/IESJandula/EcoJandula) (Telemetría d
 Proyecto [IESJandulaMap3D](https://github.com/IESJandula/IESJandulaMap3D) (Visita virtual al instituto en formato videojuego en 3D):
 - [Ignacio Belda Lupión](https://github.com/nachoblwh)
 
+Proyecto [MataMataMuere](https://github.com/IESJandula/MataMataMuere) (Videojuego en 3D estilo Shooter):
+- [Jesús Guerrero González](https://github.com/nachoblwh)
+
 Proyecto [Uticapc](https://github.com/IESJandula/Uticapc) (Página web para tienda de informática):
 - [Luis Manuel Muñoz Merino](https://github.com/luismagithub)
 
