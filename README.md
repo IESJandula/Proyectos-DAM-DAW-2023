@@ -25,15 +25,6 @@ Proyecto [Eco-Jándula](https://github.com/IESJandula/EcoJandula) (Telemetría d
 Proyecto [IESJandulaMap3D](https://github.com/IESJandula/IESJandulaMap3D) (Visita virtual al instituto en formato videojuego en 3D):
 - [Ignacio Belda Lupión](https://github.com/nachoblwh)
 
-Proyecto [Mata Mata Muere](https://github.com/IESJandula/MataMataMuere) (Videojuego en 3D estilo Shooter):
-- [Jesús Guerrero González](https://github.com/jguegon966)
-
-Proyecto [The Kingdom Of Shadows](https://github.com/IESJandula/TheKingdomOfShadows) (Juego Prototipo de fantasia/medieval creado en Unity):
-- [David Armijo Ramos](https://github.com/darram1)
-
-
-
-
 Proyecto [Uticapc](https://github.com/IESJandula/Uticapc) (Página web para tienda de informática):
 - [Luis Manuel Muñoz Merino](https://github.com/luismagithub)
 
@@ -42,6 +33,15 @@ Proyecto [Irevive](https://github.com/IESJandula/Irevive) (Página web de repara
 
 Proyecto [Filmmento](https://github.com/IESJandula/Filmmento) (Una biblioteca en línea que te ofrece información detallada sobre películas y series de manera dinámica):
 - [Alberto Martínez Moreno](https://github.com/amarmor878)
+
+Proyecto [Mata Mata Muere](https://github.com/IESJandula/MataMataMuere) (Videojuego en 3D estilo Shooter):
+- [Jesús Guerrero González](https://github.com/jguegon966)
+
+Proyecto [The Kingdom Of Shadows](https://github.com/IESJandula/TheKingdomOfShadows) (Juego Prototipo de fantasia/medieval creado en Unity):
+- [David Armijo Ramos](https://github.com/darram1)
+
+Proyecto [Guardería Feliz Infancia](https://github.com/IESJandula/GuarderiaFelizInfancia) (Web para la gestión de una guardería):
+- [Juan Mora Castilla](https://github.com/JuanMor10)
 
 # Calendario
 - Anteproyecto: viernes 24 de marzo
