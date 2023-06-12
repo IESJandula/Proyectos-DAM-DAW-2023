@@ -14,7 +14,7 @@ En este repositorio encontrarás una recopilación de los proyectos realizados p
 - [Índice](https://docs.google.com/document/d/125VUF7avkGyrspiLrequUlhDGRTdRzebOSh9M973gt0/edit?usp=sharing)
 - [Portada](https://docs.google.com/document/d/1PuAnJ8C2DltWCEitBccll9HKhzG2b1G2xnnnsmm3FF8/edit?usp=sharing)
 # Proyectos
-
+**DAM:**
 Proyecto [Reaktor](https://github.com/IESJandula/Reaktor) (Sistema de monitorización de equipos y control de malware):
 - [Neil Hernández Salvador](https://github.com/neilhdezs)
 - [Alejandro Aljarilla Castro](https://github.com/Aljarilla11)
@@ -25,6 +25,13 @@ Proyecto [Eco-Jándula](https://github.com/IESJandula/EcoJandula) (Telemetría d
 Proyecto [IESJandulaMap3D](https://github.com/IESJandula/IESJandulaMap3D) (Visita virtual al instituto en formato videojuego en 3D):
 - [Ignacio Belda Lupión](https://github.com/nachoblwh)
 
+Proyecto [Mata Mata Muere](https://github.com/IESJandula/MataMataMuere) (Videojuego en 3D estilo Shooter):
+- [Jesús Guerrero González](https://github.com/jguegon966)
+
+Proyecto [The Kingdom Of Shadows](https://github.com/IESJandula/TheKingdomOfShadows) (Juego Prototipo de fantasia/medieval creado en Unity):
+- [David Armijo Ramos](https://github.com/darram1)
+
+**DAW:**
 Proyecto [Uticapc](https://github.com/IESJandula/Uticapc) (Página web para tienda de informática):
 - [Luis Manuel Muñoz Merino](https://github.com/luismagithub)
 
@@ -34,14 +41,12 @@ Proyecto [Irevive](https://github.com/IESJandula/Irevive) (Página web de repara
 Proyecto [Filmmento](https://github.com/IESJandula/Filmmento) (Una biblioteca en línea que te ofrece información detallada sobre películas y series de manera dinámica):
 - [Alberto Martínez Moreno](https://github.com/amarmor878)
 
-Proyecto [Mata Mata Muere](https://github.com/IESJandula/MataMataMuere) (Videojuego en 3D estilo Shooter):
-- [Jesús Guerrero González](https://github.com/jguegon966)
-
-Proyecto [The Kingdom Of Shadows](https://github.com/IESJandula/TheKingdomOfShadows) (Juego Prototipo de fantasia/medieval creado en Unity):
-- [David Armijo Ramos](https://github.com/darram1)
-
 Proyecto [Guardería Feliz Infancia](https://github.com/IESJandula/GuarderiaFelizInfancia) (Web para la gestión de una guardería):
 - [Juan Mora Castilla](https://github.com/JuanMor10)
+
+Proyecto [Web Fanverse](https://github.com/IESJandula/WebFanverse) (Tienda web dedicada al merchandising):
+- [Helena Sarrión Expósito](https://github.com/helenaSarrion)
+
 
 # Calendario
 - Anteproyecto: viernes 24 de marzo
