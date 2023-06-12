@@ -14,7 +14,7 @@ En este repositorio encontrarás una recopilación de los proyectos realizados p
 - [Índice](https://docs.google.com/document/d/125VUF7avkGyrspiLrequUlhDGRTdRzebOSh9M973gt0/edit?usp=sharing)
 - [Portada](https://docs.google.com/document/d/1PuAnJ8C2DltWCEitBccll9HKhzG2b1G2xnnnsmm3FF8/edit?usp=sharing)
 # Proyectos
-**DAM:**
+**DAM:**<br>
 Proyecto [Reaktor](https://github.com/IESJandula/Reaktor) (Sistema de monitorización de equipos y control de malware):
 - [Neil Hernández Salvador](https://github.com/neilhdezs)
 - [Alejandro Aljarilla Castro](https://github.com/Aljarilla11)
@@ -31,7 +31,7 @@ Proyecto [Mata Mata Muere](https://github.com/IESJandula/MataMataMuere) (Videoju
 Proyecto [The Kingdom Of Shadows](https://github.com/IESJandula/TheKingdomOfShadows) (Juego Prototipo de fantasia/medieval creado en Unity):
 - [David Armijo Ramos](https://github.com/darram1)
 
-**DAW:**
+**DAW:**<br>
 Proyecto [Uticapc](https://github.com/IESJandula/Uticapc) (Página web para tienda de informática):
 - [Luis Manuel Muñoz Merino](https://github.com/luismagithub)
 
