@@ -31,6 +31,12 @@ Proyecto [Mata Mata Muere](https://github.com/IESJandula/MataMataMuere) (Videoju
 Proyecto [The Kingdom Of Shadows](https://github.com/IESJandula/TheKingdomOfShadows) (Juego Prototipo de fantasia/medieval creado en Unity):
 - [David Armijo Ramos](https://github.com/darram1)
 
+Proyecto [app_seneca_registros_bano](https://github.com/IESJandula/app_seneca_registros_bano) (App web para registrar los datos de los alumnos que van al baño):
+- [Manuel Caño Gil](https://github.com/manuel-canio-gil-291)
+
+Proyecto [SenecaTFG](https://github.com/IESJandula/SenecaTFG) (Web clon de la app Séneca):
+- [Óscar Herruzo Montoya](https://github.com/oscarherruzo)
+
 **DAW:**<br>
 Proyecto [Uticapc](https://github.com/IESJandula/Uticapc) (Página web para tienda de informática):
 - [Luis Manuel Muñoz Merino](https://github.com/luismagithub)
