@@ -54,7 +54,7 @@ Proyecto [Web Fanverse](https://github.com/IESJandula/WebFanverse) (Tienda web d
 - [Helena Sarrión Expósito](https://github.com/helenaSarrion)
 
 Proyecto [Insecta 6 patas](https://github.com/IESJandula/Insecta6patas) (Web dedicada a la difusión del conocimiento de los insectos con un enfoque accesible):
-- [Pilar Benítez Serrano]
+- Pilar Benítez Serrano
 
 # Calendario
 - Anteproyecto: viernes 24 de marzo
