@@ -59,6 +59,9 @@ Proyecto [Web Fanverse](https://github.com/IESJandula/WebFanverse) (Tienda web d
 Proyecto [Insecta 6 patas](https://github.com/IESJandula/Insecta6patas) (Web dedicada a la difusión del conocimiento de los insectos con un enfoque accesible):
 - Pilar Benítez Serrano
 
+Proyecto [ButacaPrime]([https://github.com/IESJandula/Insecta6patas](https://github.com/IESJandula/ButacaPrime)) (web de reserva de butacas de cine, con el objetivo de que los usuarios puedan elegir y reservar sus asientos de manera cómoda y rápida desde la comodidad de sus hogares.):
+- Agustín Barragán Lara
+
 # Calendario
 - Anteproyecto: viernes 24 de marzo
 - Revisión (checkpoint): lunes 22 de mayo
