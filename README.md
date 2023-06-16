@@ -44,7 +44,7 @@ Proyecto [SenecaTFG](https://github.com/IESJandula/SenecaTFG) (Web clon de la ap
 Proyecto [Uticapc](https://github.com/IESJandula/Uticapc) (Página web para tienda de informática):
 - [Luis Manuel Muñoz Merino](https://github.com/luismagithub)
 
-Proyecto [Irevive](https://github.com/IESJandula/Irevive) (Página web de reparaciones de teléfonos Apple):
+Proyecto [iRevive](https://github.com/IESJandula/Irevive) (Página web de reparaciones de teléfonos Apple):
 - Joel Tortosa Rodríguez
 
 Proyecto [Filmmento](https://github.com/IESJandula/Filmmento) (Una biblioteca en línea que te ofrece información detallada sobre películas y series de manera dinámica):
